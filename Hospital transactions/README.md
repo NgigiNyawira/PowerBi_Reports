@@ -1,10 +1,10 @@
-# Hospital Transactions Dashboard
+# Hospital Transactions
 
 ## Project Overview
 
 The Hospital Transactions Dashboard is a Power BI analytics solution designed to provide healthcare stakeholders with a comprehensive view of patient visits, pharmacy transactions, hospital departments, diagnoses, and revenue performance.
 
-The dashboard combines patient information, visit records, and pharmacy transaction data to support operational monitoring, financial analysis, and healthcare decision making. By consolidating these datasets into an interactive reporting environment, users can quickly identify trends, evaluate service utilization, and assess pharmacy revenue performance.
+The dashboard combines patient information, visit records, and pharmacy transaction data to support operational monitoring, financial analysis, and healthcare decision-making. By consolidating these datasets into an interactive reporting environment, users can quickly identify trends, evaluate service utilization, and assess pharmacy revenue performance.
 
 ## Business Problem
 
